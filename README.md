@@ -37,9 +37,8 @@ To use CoinGeckoCrypto Tracker, follow these steps:
 ## Visit  deployed CoinGeckoCrypto Tracker
 
 
-### Installation
-
 ''
+
 https://crypto-projet-coin-gecko.vercel.app/
 
 ''
